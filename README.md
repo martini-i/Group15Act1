@@ -1,5 +1,5 @@
 # Group 15 Activity 1
-## Brendan Cozzens, Alex Islas, Bryan Morales, Martin Nguyen, Brian Tamondong
+## Brendon Cozzens, Alex Islas, Bryan Morales, Martin Nguyen, Brian Tamondong
 
 # Pursuit
 ## Product Vision
