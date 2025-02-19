@@ -19,6 +19,7 @@ Pursuit athletics pushes athletes beyond their limits to pursue victory. With a 
 | FR009  | Product Showcase Page         | Displays selected product with full details, images, reviews, and specifications. |
 | FR010  | Product Categories & Filtering | Allows users to filter and browse products by category, price, brand, etc. |
 | FR011  | Customer Support System       | Provides contact options: email, phone, live chat. Includes a Frequently Asked Questions (FAQ) section. |
+| FR012  | About Page | Provides company history, mission, and values to establish trust and credibility. Contains text, images, and possibly videos to engage users. |
 
 
 ## Non Functional Requirements
