@@ -30,4 +30,4 @@ Pursuit athletics pushes athletes beyond their limits to pursue victory. With a 
 | NFR004 | High Availability            | The website should have 99.9% uptime with minimal downtime. |
 | NFR005 | Availabilty across multiple platforms        | The website should be fully functional on desktop, tablet, and mobile devices. All experiences should be the same across different platforms. |
 ## Chart
-![Alt text](CPSC%20362%20Image.png)
+![Alt text](chart.png)
