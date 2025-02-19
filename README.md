@@ -9,15 +9,15 @@ Pursuit athletics pushes athletes beyond their limits to pursue victory. With a 
 | ID  | Title                        | Description  |
 |-------|------------------------------|-------------|
 | FR001  | Homepage                     | Landing page when users type in the website domain. Displays featured and recommended products. Provides navigation to different sections of the website. |
-| FR002  | Login & User Authentication  | Allows users to log in using email & password. Option for social media or third-party login (Google, Facebook, etc.). |
-| FR003  | Secure Payment System        | Supports multiple payment methods (Visa, Amex, PayPal, etc.). Implements encryption for transaction security. |
+| FR002  | Login & User Authentication  | Allows users to log in using email & password. |
+| FR003  | Secure Payment System        | Supports all major credit card payment methods (Visa, Amex, PayPal, etc.). Implements encryption for transaction security. |
 | FR004  | Product Tracking System      | Enables users to track their shipments in real-time. |
 | FR005  | Search Bar                   | Lets users search for products using keywords, filters, and categories. |
 | FR006  | Shopping Cart & Checkout      | Allows customers to review and modify purchases before checkout. Displays total cost, tax, and shipping details. |
 | FR007  | User Profile Management       | Stores user details, order history, and payment methods. Allows users to edit saved information. |
 | FR008  | Product Categories & Filtering | Allows users to filter and browse products by category, price, brand, etc. |
 | FR009  | Product Showcase Page         | Displays selected product with full details, images, reviews, and specifications. |
-| FR010  | About Page/Support Contact       |Provides company history, mission, and values to establish trust and credibility. Contains text, images, and possibly videos to engage users. Provides contact options: email, phone, live chat. Includes a Frequently Asked Questions (FAQ) section. |
+| FR010  | About Page/Support Contact       |Provides company history, mission, and values to establish trust and credibility. Contains text, images, and possibly videos to engage users. Provides contact options: email, phone, physical address. Includes a Frequently Asked Questions (FAQ) section. |
 
 
 
@@ -26,7 +26,7 @@ Pursuit athletics pushes athletes beyond their limits to pursue victory. With a 
 |-------|------------------------------|-------------|
 | NFR001 | Performance Optimization     | The website should load all pages within 2 seconds for a seamless experience. |
 | NFR002 | Security & Encryption        | All user data and payment details should be encrypted to ensure safe transactions. |
- NFR003 | Scalability                  | The system should be able to support increasing traffic and transactions. |
+ NFR003 | Scalability                  | The system should be able to support 10,000 simultaneous users. |
 | NFR004 | High Availability            | The website should have 99.9% uptime with minimal downtime. |
 | NFR005 | Availabilty across multiple platforms        | The website should be fully functional on desktop, tablet, and mobile devices. All experiences should be the same across different platforms. |
 ## Chart
